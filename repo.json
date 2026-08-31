@@ -1,19 +1,21 @@
 {
   "$schema": "https://raw.githubusercontent.com/YangJiiii/3105-repo/main/schema.json",
-  "name": "Shadow Repository",
-  "identifier": "com.shadow.repo",
-  "description": "Kho lưu trữ tiện ích, bản vá và tài nguyên cá nhân dành cho 3105",
+  "name": "Owen Mod Repository",
+  "identifier": "com.owen.mod",
+  "description": "🎮 Kho lưu trữ Mod & tiện ích iOS của Owen. 🔥 Cập nhật thường xuyên ❤️",
   "maintainer": "shadow🎶",
+  "avatar": "assets/repo-icon.png",
   "website": "https://github.com/shadow/Shadow",
   "packages": [
     {
-      "name": "Mẫu Bản Vá Tiện Ích",
-      "bundleIdentifier": "com.example.app",
+      "identifier": "owen-trial",
+      "name": "🔥 Pubg Mod Free",
+      "author": "@owenindahouse",
       "version": "1.0.0",
-      "versionDate": "2026-09-01",
-      "downURL": "https://raw.githubusercontent.com/shadow/Shadow/main/packages/example.3105",
-      "localizedDescription": "Gói bản vá mẫu hoàn chỉnh định dạng .3105 dùng để tùy chỉnh ứng dụng.",
-      "minOSVersion": "15.0",
+      "versionDate": "2026-08-28T10:00:00Z",
+      "downURL": "packages/MOD_PUBG_V11.3105",
+      "localizedDescription": "✨ PUBG MOD • Bản dùng thử miễn phí • Trải nghiệm Premium",
+      "minOSVersion": "17.0",
       "passwordProtected": false
     }
   ]
