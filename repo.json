@@ -1,22 +1,783 @@
 {
-  "$schema": "https://raw.githubusercontent.com/YangJiiii/3105-repo/main/schema.json",
-  "name": "Owen Mod Repository",
-  "identifier": "com.owen.mod",
-  "description": "🎮 Kho lưu trữ Mod & tiện ích iOS của Owen. 🔥 Cập nhật thường xuyên ❤️",
-  "maintainer": "shadow🎶",
-  "avatar": "assets/repo-icon.png",
-  "website": "https://github.com/shadow/Shadow",
+  "schemaVersion": 1,
+  "identifier": "Shadow.Tien.com",
+  "name": "Shadow🎶",
+  "description": "Kho Lưu Trữ Mod Và Tiện Ích Của Shadow ✦\nThông Tin Liên Hệ tele: @Shadow ✦",
+  "icon": "assets/IMG_0772.jpeg",
   "packages": [
     {
-      "identifier": "owen-trial",
-      "name": "🔥 Pubg Mod Free",
-      "author": "@owenindahouse",
+      "identifier": "Ronaldo_Wallpaper",
+      "kind": "wallpaper",
+      "name": "Ronaldo Wallpaper",
+      "author": "Shadow",
       "version": "1.0.0",
-      "versionDate": "2026-08-28T10:00:00Z",
-      "downURL": "packages/MOD_PUBG_V11.3105",
-      "localizedDescription": "✨ PUBG MOD • Bản dùng thử miễn phí • Trải nghiệm Premium",
-      "minOSVersion": "17.0",
-      "passwordProtected": false
+      "summary": "Hình Nền Xịn Xìn Xin ★",
+      "description": "Tendies Có Anh 7 Cool Ngầu 🔥",
+      "category": "Wallpaper",
+      "tags": ["Wallpaper"],
+      "icon": "assets/IMG_1218.jpeg",
+      "banner": "assets/IMG_1144.jpeg",
+      "screenshots": [
+        "assets/IMG_0720.png",
+        "assets/IMG_0721.png"
+      ],
+      "download": "File/real_madrid_club_cristiano_ronaldo_hermes.tendies",
+      "sha256": "88c034b4a6a4d37fadc7f9cb08e0a1327fdffc7df1707cfbc792c08fb04f792e",
+      "size": 13168623,
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Hamster_Wallpaper",
+      "kind": "wallpaper",
+      "name": "Hamster Wallpaper",
+      "author": "Shadow",
+      "version": "1.0.0",
+      "summary": "Hình Nền Xịn Xìn Xin ★",
+      "description": "Tendies Có Con Chuột Hamster Chơi Tennis 🐁🐹",
+      "category": "Wallpaper",
+      "tags": ["Wallpaper"],
+      "icon": "assets/IMG_1220.jpeg",
+      "banner": "assets/IMG_1144.jpeg",
+      "screenshots": [
+        "assets/IMG_0724.png",
+        "assets/IMG_0723.png"
+      ],
+      "download": "File/Hamster_playing_tennis.tendies",
+      "sha256": "2d3ddffcd735fc6fe53b389f910b84f4c28347144e5b4a0f1cf627ec7843cea5",
+      "size": 1200412,
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Fosheet_Wallpaper",
+      "kind": "wallpaper",
+      "name": "Fosheet Wallpaper",
+      "author": "Shadow",
+      "version": "1.0.0",
+      "summary": "Hình Nền Xịn Xìn Xin ★",
+      "description": "Tendies đơn giản đẹp không cầu kì 👀",
+      "category": "Wallpaper",
+      "tags": ["Wallpaper"],
+      "icon": "assets/B1849D29-366D-40D6-B415-F9168F4EE494.png",
+      "banner": "assets/IMG_1144.jpeg",
+      "screenshots": [
+        "assets/IMG_0779.png",
+        "assets/IMG_0778.png"
+      ],
+      "download": "File/Fosheet_by_mdds.tendies",
+      "sha256": "d0e207c7130a6d640f5bea24911e1350913f9e015163b09d5e7d19c9d759de43",
+      "size": 344358,
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "DazzCam_Crack",
+      "name": "Dazz Cam Pro",
+      "author": "Shadow",
+      "version": "1.0.0",
+      "summary": "Chụp Là Ra Ảnh Đẹp Như Phim Những Năm 80 ★",
+      "description": "★ ĐÃ MỞ KHÓA FULL PRO👀\n- Bộ lọc film cổ điển.\n- Hiệu ứng rò sáng ánh sáng.\n- Phơi sáng kép (Double Exposure).\n- Hẹn giờ chụp.\n- Đèn flash film.\n- Ống kính mắt cá (Fisheye).\n- Điều chỉnh độ phơi sáng.\n- Khung ảnh vuông đăng Instagram.\n- Nhiều màu đèn flash",
+      "category": "Application",
+      "tags": ["Application"],
+      "icon": "assets/IMG_1247.jpeg",
+      "banner": "assets/IMG_1144.jpeg",
+      "screenshots": ["assets/IMG_0791.png"],
+      "download": "File/Dazz_Cam_Pro_Shadow.3105",
+      "sha256": "a192b2470cf3766d407a8c9957ec1f92e121ee112bbb983d9b60b21b6387b9ea",
+      "size": 1082,
+      "password": "shadow",
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "CapCut_Crack",
+      "name": "CapCut Pro",
+      "author": "Shadow",
+      "version": "1.0.0",
+      "summary": "Unlock Capcut Pro Vĩnh Viễn Chỉ Bằng 1 Chạm ★",
+      "description": "★ ĐÃ MỞ KHÓA FULL PRO👀\n• LƯU Ý:\n- Tính Năng AI Không Sử Dụng Được.\n- Không Login Khi Sử Dụng Capcut Pro.",
+      "category": "Application",
+      "tags": ["Application"],
+      "icon": "assets/IMG_0808.jpeg",
+      "banner": "assets/IMG_1144.jpeg",
+      "screenshots": ["assets/IMG_0809.png"],
+      "download": "File/Capcut_Pro_Shadow.3105",
+      "sha256": "79d17fb95fbe667621793442e916e12cdfb48c4e136335e850144e4273fc8430",
+      "size": 34303,
+      "password": "3105",
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Telephony_meme",
+      "name": "Meme Troll Dialer",
+      "author": "Shadow",
+      "version": "1.0.0",
+      "summary": "Bàn Phím Mới toanhhhh ★",
+      "description": "★ Nhiều Meme Hấp Dẫn Với Các Hình Thù Bắt Mắt Siêu Thú Vị..🌚\n• Có 2 Chế Độ: Sáng/Tối.",
+      "category": "Dialer",
+      "tags": ["Dialer"],
+      "icon": "assets/IMG_0906.jpeg",
+      "banner": "assets/IMG_1144.jpeg",
+      "screenshots": [
+        "assets/IMG_0908.png",
+        "assets/IMG_0909.png"
+      ],
+      "download": "File/TelephonyUI_meme_Shadow.3105",
+      "sha256": "3b880a9bbb02520ea93bd9b39dc2b4d83aa26b5a186a6436c55df9db0c0537bf",
+      "size": 523699,
+      "password": "Shadow",
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Telephony_amongus",
+      "name": "Among Us Dialer",
+      "author": "Shadow",
+      "version": "1.0.0",
+      "summary": "Bàn Phím Mới toanhhhh ★",
+      "description": "★ Nhiều Among Us Cute Với Các Hình Thù Bắt Mắt Siêu Thú Vị..\n• Có 2 Chế Độ: Sáng/Tối.",
+      "category": "Dialer",
+      "tags": ["Dialer"],
+      "icon": "assets/IMG_0917.jpeg",
+      "banner": "assets/IMG_1144.jpeg",
+      "screenshots": [
+        "assets/IMG_0914.png",
+        "assets/IMG_0915.png"
+      ],
+      "download": "File/TelephonyUI_Amongus_Shadow.3105",
+      "sha256": "c878f887c72ae489d85c29c1ea8571229b2efecf5923d163adeda1b96d3682ae",
+      "size": 420642,
+      "password": "Shadow",
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Telephony_CuteCat",
+      "name": "Cute Cat Dialer",
+      "author": "Shadow",
+      "version": "1.0.0",
+      "summary": "Bàn Phím Mới toanhhhh ★",
+      "description": "★ Nhiều Con Mèo Cute Với Các Hình Thù Bắt Mắt Siêu Thú Vị..🐈\n• Có 2 Chế Độ: Sáng/Tối.",
+      "category": "Dialer",
+      "tags": ["Dialer"],
+      "icon": "assets/IMG_0919.jpeg",
+      "banner": "assets/IMG_1144.jpeg",
+      "screenshots": [
+        "assets/IMG_0920.png",
+        "assets/IMG_0921.png"
+      ],
+      "download": "File/TelephonyUI_CuteCat_Shadow.3105",
+      "sha256": "1715b1faccc0899c2b1f0dc56d3bc238fe6b0953d04fcd90c9473cdf29972434",
+      "size": 372231,
+      "password": "Shadow",
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Gothic_Surreal_Wallpaper",
+      "kind": "wallpaper",
+      "name": "Gothic Surreal Wallpaper",
+      "author": "Shadow",
+      "version": "1.0.0",
+      "summary": "Hình Nền Xịn Xìn Xin ★",
+      "description": "Tendies Có Mỹ Nữ Siêu Múpp👀",
+      "category": "Wallpaper",
+      "tags": ["Wallpaper"],
+      "icon": "assets/IMG_1225.jpeg",
+      "banner": "assets/IMG_1144.jpeg",
+      "screenshots": [
+        "assets/IMG_0924.png",
+        "assets/IMG_0925.png"
+      ],
+      "download": "File/Gothic_Surreal_Shadow.tendies",
+      "sha256": "9475069afebb7a5a56e4dbe61f8b57bf19bf2c3edd464a0e5e2b5bc6f90f6728",
+      "size": 6785409,
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Superman_Wallpaper",
+      "kind": "wallpaper",
+      "name": "Superman Wallpaper",
+      "author": "Shadow",
+      "version": "1.0.0",
+      "summary": "Hình Nền Xịn Xìn Xin ★",
+      "description": "Tendies Có Anh Chai Superman Cool Ngầu 👀",
+      "category": "Wallpaper",
+      "tags": ["Wallpaper"],
+      "icon": "assets/IMG_1228.png",
+      "banner": "assets/IMG_1144.jpeg",
+      "screenshots": [
+        "assets/IMG_0929.png",
+        "assets/IMG_0930.png"
+      ],
+      "download": "File/Superman_Shadow.tendies",
+      "sha256": "10f71cd4e390da36eaf75ea3397cc0060bc9a245a99a890d752db65960b2de80",
+      "size": 7334233,
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Monkey_D_Luffy_Wallpaper",
+      "kind": "wallpaper",
+      "name": "Monkey D Luffy Wallpaper",
+      "author": "Shadow",
+      "version": "1.0.0",
+      "summary": "Hình Nền Xịn Xìn Xin ★",
+      "description": "Tendies Có Luffy Với Chiếc Mũ Bay 🧢",
+      "category": "Wallpaper",
+      "tags": ["Wallpaper"],
+      "icon": "assets/IMG_1232.jpeg",
+      "banner": "assets/IMG_1144.jpeg",
+      "screenshots": [
+        "assets/IMG_0932.png",
+        "assets/IMG_0933.png"
+      ],
+      "download": "File/Monkey_D_Luffy_Shadow.tendies",
+      "sha256": "9188c1b0ee8e20e3a48a3506148bbeb6508528d6bd7f84b153d841ce63582fd5",
+      "size": 5286398,
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "MajdataPlay_Wallpaper",
+      "kind": "wallpaper",
+      "name": "MajdataPlay Wallpaper",
+      "author": "Shadow",
+      "version": "1.0.0",
+      "summary": "Hình Nền Xịn Xìn Xin ★",
+      "description": "Tendies Có Cô Bé Cute Phù Hợp Cho Các Chị Em 👀👀",
+      "category": "Wallpaper",
+      "tags": ["Wallpaper"],
+      "icon": "assets/IMG_1235.jpeg",
+      "banner": "assets/IMG_1144.jpeg",
+      "screenshots": [
+        "assets/IMG_0934.png",
+        "assets/IMG_0935.png"
+      ],
+      "download": "File/MajdataPlay_Shadow.tendies",
+      "sha256": "c3ad557d54755978891e16cce8493f6368798c751166eabd21d2657885afd0a5",
+      "size": 6744970,
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Mario_Galaxy_Movie_Wallpaper",
+      "kind": "wallpaper",
+      "name": "Mario Galaxy Movie Wallpaper",
+      "author": "Shadow",
+      "version": "1.0.0",
+      "summary": "Hình Nền Xịn Xìn Xin ★",
+      "description": "Tendies Có Cậu Bé Mario Với Phong Cảnh Cực Chill 🐢",
+      "category": "Wallpaper",
+      "tags": ["Wallpaper"],
+      "icon": "assets/IMG_1243.jpeg",
+      "banner": "assets/IMG_1144.jpeg",
+      "screenshots": [
+        "assets/IMG_0936.png",
+        "assets/IMG_0937.png"
+      ],
+      "download": "File/mario_galaxy_movie_Shadow.tendies",
+      "sha256": "21298ce20f8db100b85a86e0a6e8c22b72ae519a60e6b33fdeb5010a81387500",
+      "size": 17023130,
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "live_wallpaper_cute_cats_dancing_Wallpaper",
+      "kind": "wallpaper",
+      "name": "Cute Cats Dancing Wallpaper",
+      "author": "Shadow",
+      "version": "1.0.0",
+      "summary": "Hình Nền Xịn Xìn Xin ★",
+      "description": "Tendies Có Chú Mèo Nhảy Cực Cute Phô Mai Que❣️",
+      "category": "Wallpaper",
+      "tags": ["Wallpaper"],
+      "icon": "assets/IMG_1239.jpeg",
+      "banner": "assets/IMG_1144.jpeg",
+      "screenshots": [
+        "assets/IMG_0938.png",
+        "assets/IMG_0939.png"
+      ],
+      "download": "File/live_wallpaper_cute_cats_dancing_Shadow.tendies",
+      "sha256": "6199ac4484ef846d97daea93f326f287afecf31b09d7c32f43ef3b32119713f0",
+      "size": 1980415,
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Bocchi_the_rock_Dark_Wallpaper",
+      "kind": "wallpaper",
+      "name": "Bocchi The Rock Dark Wallpaper",
+      "author": "Shadow",
+      "version": "1.0.0",
+      "summary": "Hình Nền Xịn Xìn Xin ★",
+      "description": "Tendies A Li Me Siêu Cutee❣️",
+      "category": "Wallpaper",
+      "tags": ["Wallpaper"],
+      "icon": "assets/IMG_1241.jpeg",
+      "banner": "assets/IMG_1144.jpeg",
+      "screenshots": [
+        "assets/IMG_0940.png",
+        "assets/IMG_0941.png"
+      ],
+      "download": "File/Bocchi_the_rock_Dark_Shadow.tendies",
+      "sha256": "e605f1ee3ea1059799ddf56e342ea0c35088f0686572ab59e6b4c60159f57031",
+      "size": 582766,
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "AimDrag_Shadow",
+      "name": "Aim Drag",
+      "author": "Shadow",
+      "version": "1.0.0",
+      "summary": "Hổ Trợ Kéo Tâm 🌚 ★",
+      "description": "Free Fire Thường\nKín=Safe🟢\nLộ=Ban🔴",
+      "category": "Free Fire",
+      "tags": ["Free Fire"],
+      "icon": "assets/IMG_0948.jpeg",
+      "banner": "assets/IMG_1144.jpeg",
+      "screenshots": [
+        "assets/IMG_0944.png",
+        "assets/IMG_0945.png",
+        "assets/IMG_0946.png"
+      ],
+      "download": "File/AimDrag_Shadow.3105",
+      "sha256": "c5c18fce5dbca84aa53a7fc56058a4d48f754f7298d43138326e2acbe4d2c3bf",
+      "size": 64029,
+      "password": "shadow",
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "AimBody_Shadow",
+      "name": "Aim Body",
+      "author": "Shadow",
+      "version": "1.0.0",
+      "summary": "Hổ Trợ Kéo Tâm 🌚 ★",
+      "description": "Free Fire Thường\nKín=Safe🟢\nLộ=Ban🔴",
+      "category": "Free Fire",
+      "tags": ["Free Fire"],
+      "icon": "assets/IMG_0948.jpeg",
+      "banner": "assets/IMG_1144.jpeg",
+      "screenshots": [
+        "assets/IMG_0944.png",
+        "assets/IMG_0945.png",
+        "assets/IMG_0946.png"
+      ],
+      "download": "File/Aimbody_Shadow.3105",
+      "sha256": "9523bf49e310d951e26e8d3b0f1a80b35b2ee1892b99e2faddba4cc0d89c52cc",
+      "size": 64029,
+      "password": "shadow",
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "ESPChams_Shadow",
+      "name": "ESP Chams",
+      "author": "Shadow",
+      "version": "1.0.0",
+      "summary": "Tô Màu Kẻ Địch Giúp Lộ Vị Trí Kẻ Địch 🌚 ★",
+      "description": "Free Fire Thường\nKín=Safe🟢\nLộ=Ban🔴\n• LƯU Ý: Tải Full Tài Nguyên Nhân Vật Mới Hoạt Động.",
+      "category": "Free Fire",
+      "tags": ["Free Fire"],
+      "icon": "assets/IMG_0948.jpeg",
+      "banner": "assets/IMG_1144.jpeg",
+      "screenshots": [
+        "assets/IMG_0944.png",
+        "assets/IMG_0945.png",
+        "assets/IMG_0946.png"
+      ],
+      "download": "File/EspChams_Shadow.3105",
+      "sha256": "476a3b5ea9ed8e350873ad502f1f1a369d49150b982257f653a387b52e087b89",
+      "size": 13179432,
+      "password": "shadow",
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Telephony_Shin_Shadow",
+      "name": "Shin Dialer",
+      "author": "Shadow",
+      "version": "1.0.0",
+      "summary": "Bàn Phím Mới toanhhhh ★",
+      "description": "★ Shin Cậu Bé Bút Chì ✏️\n• Có 2 Chế Độ: Sáng/Tối.",
+      "category": "Dialer",
+      "tags": ["Dialer"],
+      "icon": "assets/IMG_1052.jpeg",
+      "banner": "assets/IMG_1144.jpeg",
+      "screenshots": [
+        "assets/IMG_1047.png",
+        "assets/IMG_1048.png"
+      ],
+      "download": "File/TelephonyUI_Shin_Shadow.3105",
+      "sha256": "f50c30a1dc7e1d8f94c54dbb893967b3205b470897e588c7e9953d28b42bda82",
+      "size": 775947,
+      "password": "Shadow",
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Telephony_Pen_Shadow",
+      "name": "Pen Dialer",
+      "author": "Shadow",
+      "version": "1.0.0",
+      "summary": "Bàn Phím Mới toanhhhh ★",
+      "description": "★ Bàn Phím Vẽ Tay 🖊️\n• Có 2 Chế Độ: Sáng/Tối.",
+      "category": "Dialer",
+      "tags": ["Dialer"],
+      "icon": "assets/IMG_1058.jpeg",
+      "banner": "assets/IMG_1144.jpeg",
+      "screenshots": [
+        "assets/IMG_1053.png",
+        "assets/IMG_1054.png"
+      ],
+      "download": "File/TelephonyUI_Pen_Shadow.3105",
+      "sha256": "3eb8c8fd14e7328b7dee5b281f44e8bc6af87fe974672af668af580a724a5481",
+      "size": 73583,
+      "password": "Shadow",
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Telephony_Chu_Gau_Shadow",
+      "name": "3 Chú Gấu Dialer",
+      "author": "Shadow",
+      "version": "1.0.0",
+      "summary": "Bàn Phím Mới toanhhhh ★",
+      "description": "★ Bàn Phím 3 Chú Gấu Siêu Cuteee Phô Mai Que 🐢\n• Có 2 Chế Độ: Sáng/Tối.",
+      "category": "Dialer",
+      "tags": ["Dialer"],
+      "icon": "assets/IMG_1116.jpeg",
+      "banner": "assets/IMG_1144.jpeg",
+      "screenshots": [
+        "assets/IMG_1113.png",
+        "assets/IMG_1114.png"
+      ],
+      "download": "File/TelephonyUI_3ChuGau_Shadow.3105",
+      "sha256": "bdd1f9d2cafda795e2a9bfda74b1fdf9994343a31f5b7a837946e7cc6643480f",
+      "size": 334612,
+      "password": "Shadow",
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Dvma_Shadow",
+      "name": "Định Vị Ma FFT",
+      "author": "Shadow",
+      "version": "1.0.0",
+      "summary": "Tô Màu Kẻ Địch Giúp Lộ Vị Trí Kẻ Địch 🌚 ★",
+      "description": "Free Fire Thường\nLog 40% Mới Apply Không Sẽ Ban\nKín=Safe🟢\nLộ=Ban🔴",
+      "category": "Free Fire",
+      "tags": ["Free Fire"],
+      "icon": "assets/IMG_0948.jpeg",
+      "banner": "assets/IMG_1144.jpeg",
+      "screenshots": [
+        "assets/IMG_0944.png",
+        "assets/IMG_0945.png",
+        "assets/IMG_0946.png"
+      ],
+      "download": "File/Dinh_Vi_Ma_FFT_Shadow.3105",
+      "sha256": "888c6bf2609e374aeb282b04b792cc0bb8e8d012563b0388b17475de1ce3b4a9",
+      "size": 384279,
+      "password": "shadow",
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Dvmaffm_Shadow",
+      "name": "Định Vị Ma FFM",
+      "author": "Shadow",
+      "version": "1.0.0",
+      "summary": "Tô Màu Kẻ Địch Giúp Lộ Vị Trí Kẻ Địch 🌚 ★",
+      "description": "Free Fire Max\nLog 40% Mới Apply Không Sẽ Ban\nKín=Safe🟢\nLộ=Ban🔴",
+      "category": "Free Fire",
+      "tags": ["Free Fire"],
+      "icon": "assets/IMG_0948.jpeg",
+      "banner": "assets/IMG_1144.jpeg",
+      "screenshots": [
+        "assets/IMG_0944.png",
+        "assets/IMG_0945.png",
+        "assets/IMG_0946.png"
+      ],
+      "download": "File/Dinh_Vi_Ma_FFM_Shadow.3105",
+      "sha256": "bfacc5cd24706895789cced395128538a692f22242ef8ee291b5eb7c86d19608",
+      "size": 384292,
+      "password": "shadow",
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Hachiware_Wallpaper_Shadow",
+      "kind": "wallpaper",
+      "name": "Hachiware Wallpaper",
+      "author": "Shadow",
+      "version": "1.0.0",
+      "summary": "Hình Nền Xịn Xìn Xin ★",
+      "description": "Tendies Cute Phô Mai Queee 🐢",
+      "category": "Wallpaper",
+      "tags": ["Wallpaper"],
+      "icon": "assets/IMG_1209.jpeg",
+      "banner": "assets/IMG_1144.jpeg",
+      "screenshots": [
+        "assets/IMG_1204.png",
+        "assets/IMG_1206.png"
+      ],
+      "download": "File/Hachiware_Shadow.tendies",
+      "sha256": "e7bf33a85304a61e1d9174fb72dc3d1499cae6e12db267e1c13df39c13ba7248",
+      "size": 14533669,
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "usagi_Wallpaper_Shadow",
+      "kind": "wallpaper",
+      "name": "Usagi Wallpaper",
+      "author": "Shadow",
+      "version": "1.0.0",
+      "summary": "Hình Nền Xịn Xìn Xin ★",
+      "description": "Tendies Cute Phô Mai Queee 🐢",
+      "category": "Wallpaper",
+      "tags": ["Wallpaper"],
+      "icon": "assets/IMG_1214.jpeg",
+      "banner": "assets/IMG_1144.jpeg",
+      "screenshots": [
+        "assets/IMG_1210.png",
+        "assets/IMG_1211.png"
+      ],
+      "download": "File/Usagi_Shadow.tendies",
+      "sha256": "6732bc46661f629a81ceaf2bf4a54ee46105d1268a8681f834eb81b705b40465",
+      "size": 12991848,
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": ["24A5355q", "24A5370h", "24A5380h", "24A5390f"]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
