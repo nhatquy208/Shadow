@@ -1,0 +1,20 @@
+{
+  "$schema": "https://raw.githubusercontent.com/YangJiiii/3105-repo/main/schema.json",
+  "name": "Shadow Repository",
+  "identifier": "com.shadow.repo",
+  "description": "Kho lưu trữ tiện ích, bản vá và tài nguyên cá nhân dành cho 3105",
+  "maintainer": "shadow🎶",
+  "website": "https://github.com/shadow/Shadow",
+  "packages": [
+    {
+      "name": "Mẫu Bản Vá Tiện Ích",
+      "bundleIdentifier": "com.example.app",
+      "version": "1.0.0",
+      "versionDate": "2026-09-01",
+      "downURL": "https://raw.githubusercontent.com/shadow/Shadow/main/packages/example.3105",
+      "localizedDescription": "Gói bản vá mẫu hoàn chỉnh định dạng .3105 dùng để tùy chỉnh ứng dụng.",
+      "minOSVersion": "15.0",
+      "passwordProtected": false
+    }
+  ]
+}
